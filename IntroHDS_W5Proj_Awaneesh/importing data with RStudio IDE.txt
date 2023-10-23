@@ -1,0 +1,5 @@
+
+https://support.posit.co/hc/en-us/articles/218611977-Importing-Data-with-RStudio
+
+https://argoshare.is.ed.ac.uk/healthyr_book/chap02-h2-reading-data-into-r.html
+
